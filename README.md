@@ -3,7 +3,7 @@ This simple C++ programme manages users with unique IDs. It is able to add a use
 
 ## Installation
 1. Clone the repository
-   link
+   https://github.com/saltanatprog/userManager.git
 2. Navigate to project directory (userManager)
 3. Compile the programme(main.cpp) with C++ compiler.
 4. Run the programme in the command line.
